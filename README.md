@@ -1,0 +1,2 @@
+# SequencerVibeCoded
+Replit vibe coded
